@@ -22,7 +22,7 @@
 
             <div class="col-lg-2 col-md-3 col-sm-4 col-6" data-aos="fade-up">
                 <div class="skills-icons">
-                    <img src="{{ asset('cymer/assets/img/skills-icons/css.png') }}" alt="">
+                    <img src="{{ asset('cymer/assets/img/skills-icons/css.webp') }}" alt="">
                 </div>
             </div>
             <div class="col-lg-2 col-md-3 col-sm-4 col-6" data-aos="fade-up">
@@ -70,6 +70,12 @@
             <div class="col-lg-2 col-md-3 col-sm-4 col-6" data-aos="fade-up">
                 <div class="skills-icons-php">
                     <img src="{{ asset('cymer/assets/img/skills-icons/github.png') }}" alt="">
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-md-3 col-sm-4 col-6" data-aos="fade-up">
+                <div class="skills-icons-php">
+                    <img src="{{ asset('cymer/assets/img/skills-icons/git.png') }}" alt="">
                 </div>
             </div>
 

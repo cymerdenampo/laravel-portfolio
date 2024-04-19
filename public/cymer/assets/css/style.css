@@ -1106,4 +1106,9 @@ section {
   max-height: 100px;
   display: block;
   margin: 0 auto;
+  transition: transform 0.3s ease-in-out; /* Add transition effect */
+}
+
+.skills-content img:hover {
+  transform: scale(1.1); /* Increase size on hover */
 }
